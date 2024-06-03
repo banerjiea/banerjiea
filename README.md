@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/006/362/890/original/programming-and-software-development-web-page-banner-program-code-on-screen-device-software-development-coding-process-concept-vector.jpg)]
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 <!--
 **banerjiea/banerjiea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
