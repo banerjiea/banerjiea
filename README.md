@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 <!--
 **banerjiea/banerjiea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
