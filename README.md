@@ -12,7 +12,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=banerjiea&show_icons=true&locale=en&layout=compact" alt="banerjiea" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banerjiea&" alt="banerjiea" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=banerjiea&" alt="banerjiea" /></p>
 
 <!--
 **banerjiea/banerjiea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
