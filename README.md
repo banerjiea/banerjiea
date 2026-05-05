@@ -9,9 +9,6 @@
   <a href="https://linkedin.com/in/soubhik-banerjee-hzs-fiem/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
   </a>
-  <a href="https://instagram.com/banerjiea/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-  </a>
 </p>
 <!--
 **banerjiea/banerjiea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
